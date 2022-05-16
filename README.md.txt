@@ -1,0 +1,58 @@
+ 3 Key Learings:
+	1.Learn to Analyze market data with python
+	2.Design your own trading strategies
+	3.Automate your trading strategies
+
+All you need to learn for Algo Trading in Python is:
+	Basic Python
+	Lists & Dictionaries
+	While & For Loops
+	Date Time & Exception Handling
+	JSON & File Handling
+	Pandas and Numpy library for analytics
+	Authentication
+	Login to different broker's accounts using APIs
+	Download Historical Data For Back Testing
+	Getting Live Data From Stock Market API
+	finplot, matplotlib library for charting.
+	Place, Cancel & Modify Orders
+	utomate your strategies using algorithms
+
+After that, regarding algorithmic trading, I would suggest looking into the subjects of mean reversion, cointegration regarding algorithmic trading because this is a whole new world you open to yourself when you start algorithmic trading.
+
+The mistake I see a lot of people doing is they try to automate a manual strategy, based on technical analysis. That’s a terrible mistake and a loss of time, no strategy based on technical analysis will make you consistent gains in the long-term.
+
+
+
+
+***You should first be very familiar with Python before you can use it with algo trading. There are a lot of resources over the internet where you can get ideas, knowledge and information but then again I’d say these are cluttered information and you won’t really be able to process the fundamentals unless you get it from credible sources such like online course trainings. There are python related course trainings which will prepare you with algo trading eventually and the same with algo trading there are courses which will help equip you with what you need. Below are information of pertinent courses you can check which might help you. Good luck!
+
+Introduction to Python
+
+Learn the most popular programming language of Data Science community
+
+Learn why Python dominates the Data Science community around the world
+Learn the most powerful programming language in Machine Learning.
+Instructor has a B.S degree in Computer Engineering and a M.S degree in Operations Research from Penn State University. He's the Head of AI and CTO at Talent Envoy.
+Learn the most popular programming language of Data Science community
+
+Learn why Python dominates the Data Science community around the world
+Learn the most powerful programming language in Machine Learning.
+Instructor has a B.S degree in Computer Engineering and a M.S degree in Operations Research from Penn State University. He's the Head of AI and CTO at Talent Envoy.
+Algorithmic Trading Strategies
+
+Analysis, Design and Confirmation of Quantitative Trading Strategies
+
+Course covers the underlying principles behind algorithmic trading, covering principles and analyses of trend-following, carry, value, mean-reversion, relative value and other more obscure strategies like short-gamma.
+Instructor has over 20 years of experience in the finance industry, in both buy and sell-side firms He started his career at Lehman Brothers doing MBS/ABS modeling and later taking a variety of senior roles at Goldman Sachs, DeutscheBank, Sanford Bernstein,and Citadel.
+Course Description
+
+Systematic Quant funds are a rapidly rising part of the hedge fund and smart beta world. Although there is a large focus on high-frequency by academics, medium-to-low frequency algo trading accounts for over $350bn AUM and is the highest growth segment of the HF world. This algorithmic trading course covers the underlying principles behind algorithmic trading, including analyses of trend-following, carry, value, mean-reversion, and relative value strategies. We will discuss the rationale for the strategy, standard strategy designs, the pros and cons of various design choices, and the gains from diversification in portfolio strategies. Finally, since the industry is plagued by overfitting and resulting poor performance, we will discuss p-hacking (or 'financial charlatanism') and various strategies to avoid it.
+
+What am I going to get from this course?
+
+Professionals - Understand the mechanics of standard implementations of the single asset and portfolio based risk-premia trading strategies. Recognize pros and cons of various approaches to designing strategies and the common pitfalls encountered by algorithmic traders. Be able to devise new and improved algorithmic
+
+Algorithmic Traders - Recognize the reasons commonly-used strategies work and when they don't. Understand the statistical properties of strategies and discern the mathematically proven from the empirical. Acquire an understanding of methods to prevent overfitting.
+
+Academics/students - Gain familiarity with the broad area of algorithmic trading strategies. Master the underlying theory and mechanics behind the most common strategies. Acquire the understanding of principals and context necessary for new academic research into the large number of open questions in the area.
