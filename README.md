@@ -8,7 +8,6 @@
 	
   3.Automate your trading strategies
   
-  
   Book That help :
   
  Book read a vast number of books available on this subject. I have come to find that while there are a lot of good books out there that actually help you gain useful information, there are even more books that are just pure play marketing material shoved down the throats of the ignorant reader.
